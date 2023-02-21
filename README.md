@@ -13,4 +13,4 @@ The script also handles some common errors that may occur during the booking pro
 This script is intended as a simple example of how to use two APIs in combination and how to handle common errors in Python. You are free to use and modify it as you like.
 
 
-This software was developed during my 1st year as an Artificial Intelligence student at the University of Manchester, it was submitted as an assessed coursework for the COMP16321 course unit.
+This software was developed during my 2st year as an Artificial Intelligence student at the University of Manchester, it was submitted as an assessed coursework for the COMP28112 course unit.
